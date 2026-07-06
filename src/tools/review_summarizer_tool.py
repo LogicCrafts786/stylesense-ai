@@ -142,6 +142,7 @@ def review_summarizer_tool_fn(product_id: str, product_name: str) -> dict:
     Args:
         product_id: The product ID to summarize reviews for.
         product_name: Display name of the product.
+        
 
     Returns:
         Structured review summary dictionary.
