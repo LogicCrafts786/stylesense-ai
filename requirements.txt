@@ -41,4 +41,4 @@ pytest-mock==3.14.0
 pytest-cov==6.0.0
 
 # Logging
-loguru==0.7.2e
+loguru==0.7.2
