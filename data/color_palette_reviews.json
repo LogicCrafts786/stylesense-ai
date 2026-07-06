@@ -1,0 +1,42 @@
+{
+  "color_wheel_relationships": {
+    "complementary_pairs": [
+      ["red", "green"],
+      ["blue", "orange"],
+      ["yellow", "purple"],
+      ["navy", "camel"],
+      ["burgundy", "olive"]
+    ],
+    "analogous_groups": [
+      ["red", "orange", "yellow"],
+      ["blue", "green", "teal"],
+      ["purple", "blue", "navy"],
+      ["terracotta", "orange", "brown"]
+    ],
+    "monochromatic_families": {
+      "blue": ["navy", "sky blue", "denim", "cobalt"],
+      "neutral": ["black", "white", "gray", "charcoal"],
+      "earth": ["camel", "tan", "khaki", "brown", "sand"]
+    }
+  },
+  "neutral_colors": [
+    "black", "white", "gray", "charcoal", "navy", "beige", "tan", "cream", "nude"
+  ],
+  "seasonal_palettes": {
+    "spring": ["pastel pink", "sky blue", "mint", "lavender", "cream"],
+    "summer": ["white", "sand", "coral", "sky blue", "soft yellow"],
+    "autumn": ["terracotta", "olive", "burgundy", "camel", "burnt orange"],
+    "winter": ["black", "charcoal", "burgundy", "emerald", "navy"]
+  },
+  "occasion_color_guidance": {
+    "business meeting": ["navy", "charcoal", "white", "gray", "burgundy"],
+    "beach wedding": ["white", "sand", "terracotta", "sky blue", "coral"],
+    "cocktail party": ["black", "burgundy", "emerald", "gold", "navy"],
+    "casual outing": ["denim", "white", "olive", "gray", "khaki"]
+  },
+  "clashing_combinations_to_avoid": [
+    ["red", "pink"],
+    ["orange", "purple"],
+    ["brown", "black"]
+  ]
+}
