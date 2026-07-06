@@ -1,0 +1,57 @@
+{
+  "business meeting": {
+    "formality_level": "business formal",
+    "typical_fabric_weights": ["medium", "medium-heavy"],
+    "avoid": ["overly casual denim", "graphic prints", "flip-flops"]
+  },
+  "office": {
+    "formality_level": "business casual",
+    "typical_fabric_weights": ["light-medium", "medium"],
+    "avoid": ["athletic wear", "overly revealing cuts"]
+  },
+  "beach wedding": {
+    "formality_level": "semi-formal resort",
+    "typical_fabric_weights": ["light"],
+    "avoid": ["heavy wool", "dark heavy fabrics", "closed-toe boots"]
+  },
+  "cocktail party": {
+    "formality_level": "cocktail formal",
+    "typical_fabric_weights": ["medium", "light-medium"],
+    "avoid": ["athletic wear", "overly casual sneakers"]
+  },
+  "gala": {
+    "formality_level": "black tie optional",
+    "typical_fabric_weights": ["medium", "medium-heavy"],
+    "avoid": ["casual denim", "sneakers", "graphic tees"]
+  },
+  "date night": {
+    "formality_level": "smart casual",
+    "typical_fabric_weights": ["light-medium", "medium"],
+    "avoid": ["overly athletic wear"]
+  },
+  "casual outing": {
+    "formality_level": "casual",
+    "typical_fabric_weights": ["light", "light-medium", "medium"],
+    "avoid": []
+  },
+  "weekend": {
+    "formality_level": "casual",
+    "typical_fabric_weights": ["light", "medium"],
+    "avoid": []
+  },
+  "vacation": {
+    "formality_level": "resort casual",
+    "typical_fabric_weights": ["light"],
+    "avoid": ["heavy wool", "formal blazers"]
+  },
+  "dinner": {
+    "formality_level": "smart casual to semi-formal",
+    "typical_fabric_weights": ["medium", "light-medium"],
+    "avoid": ["athletic wear"]
+  },
+  "job interview": {
+    "formality_level": "business formal",
+    "typical_fabric_weights": ["medium", "medium-heavy"],
+    "avoid": ["denim", "sneakers", "casual prints"]
+  }
+}
